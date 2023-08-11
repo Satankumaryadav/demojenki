@@ -6,6 +6,8 @@ public class Demojen1 {
 		// TODO Auto-generated method stub
 		System.out.println("this first build of java at jenkin");
 		System.out.println("this first build of java at jenkin");
+		System.out.println("this first build of java at jenkin");
+		System.out.println("this first build of java at jenkin");
 
 	}
 
